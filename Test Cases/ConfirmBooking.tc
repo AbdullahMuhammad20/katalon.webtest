@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ConfirmBooking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b07ecc01-da75-4724-848a-8a0c5eec6895</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b0e2f7b-18a2-4e14-9ea0-95f25fbf5048</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a349d823-e0ff-4a93-bd4d-26949da82e4f</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45a5f6e5-7da1-4832-8777-2304c13beeb2</id>
+      <masked>false</masked>
+      <name>visitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8da12189-dd66-41e3-89db-dfa2ecd2d7d6</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
